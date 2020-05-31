@@ -19,6 +19,10 @@ Storing this folder across builds varies by CI provider. We've provided a list o
 
 Next.js caching is automatically configured for you. There's no action required on your part.
 
+#### Render
+
+Caching for all major frameworks including Next.js is enabled by default.
+
 #### CircleCI
 
 Edit your `save_cache` step in `.circleci/config.yml` to include `.next/cache`:
