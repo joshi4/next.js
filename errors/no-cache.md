@@ -21,7 +21,7 @@ Next.js caching is automatically configured for you. There's no action required 
 
 #### Render
 
-Caching for all major frameworks including Next.js is enabled by default.
+Build caching for all major frameworks including Next.js is enabled by default.
 
 #### CircleCI
 
